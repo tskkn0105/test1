@@ -25,7 +25,7 @@ ball = GameObject.Ball(canvas, "red")
 
 #メインループ
 while True:
-    ball.move()
+    ball.Move()
 
     #画面書き換え処理とか
     #############################
